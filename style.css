@@ -1,0 +1,99 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+/* body{ */
+    /* background:
+    radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent),
+    radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent) 50px 50px,
+    linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px,
+    linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;
+    background-color: slategray;
+    background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px; */
+/* } */
+
+/* h1{
+    letter-spacing: 10px;
+    font-size: 50px;
+}
+
+ */
+
+/* 
+.contenedor{
+    padding-top: 5%;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.reloj-texto{
+    border: 1px solid;
+    text-align: center;
+    max-width: 350px;
+    border-radius: 10px;
+}
+
+.reloj-contenedor{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: sans-serif;
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+#fecha{
+    letter-spacing: 10px;
+    font-size: 30px;
+ 
+}
+
+#hora{
+
+    font-size: 70px;
+} */
+
+
+body{
+    /* background-image: url(1062.jpg);
+    background-size: cover; */
+}
+
+
+.contenedor{
+    text-align: center;
+    /* display: flex; */
+
+}
+
+    
+h1{
+    letter-spacing: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+span{
+    font-size: 30px
+}
+
+
+.p, #hora{
+    font-size: 30px;
+    color: violet;
+  
+}
+
+#clock, .p2{
+    color: rgb(7, 32, 79);
+}
+
+
+
