@@ -107,7 +107,8 @@ const mostrarReloj = () => {
 
 
     // countdown('Sep 07 2022 16:40:50 GMT-0500', 'clock', '<a href="https://www.youtube.com/results?search_query=php+yii2">Ir a formulario de Registro</a>    ');
-        countdown('Sep 07 2022 19:20:50 GMT-0500', 'clock', 'Llegue a tiempo jajaj   ');
+            countdown('Sep 08 2022 14:00:00 GMT-0500', 'clock', 'Ya es la hora de la comida');
+
 
 
     
